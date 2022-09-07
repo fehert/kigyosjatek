@@ -1,0 +1,14 @@
+C:\Users\bales\source\repos\Kigyo\Kigyo\obj\Debug\netcoreapp3.1\Kigyo.csproj.AssemblyReference.cache
+C:\Users\bales\source\repos\Kigyo\Kigyo\obj\Debug\netcoreapp3.1\Kigyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bales\source\repos\Kigyo\Kigyo\obj\Debug\netcoreapp3.1\Kigyo.AssemblyInfoInputs.cache
+C:\Users\bales\source\repos\Kigyo\Kigyo\obj\Debug\netcoreapp3.1\Kigyo.AssemblyInfo.cs
+C:\Users\bales\source\repos\Kigyo\Kigyo\obj\Debug\netcoreapp3.1\Kigyo.csproj.CoreCompileInputs.cache
+C:\Users\bales\source\repos\Kigyo\Kigyo\bin\Debug\netcoreapp3.1\Kigyo.exe
+C:\Users\bales\source\repos\Kigyo\Kigyo\bin\Debug\netcoreapp3.1\Kigyo.deps.json
+C:\Users\bales\source\repos\Kigyo\Kigyo\bin\Debug\netcoreapp3.1\Kigyo.runtimeconfig.json
+C:\Users\bales\source\repos\Kigyo\Kigyo\bin\Debug\netcoreapp3.1\Kigyo.runtimeconfig.dev.json
+C:\Users\bales\source\repos\Kigyo\Kigyo\bin\Debug\netcoreapp3.1\Kigyo.dll
+C:\Users\bales\source\repos\Kigyo\Kigyo\bin\Debug\netcoreapp3.1\Kigyo.pdb
+C:\Users\bales\source\repos\Kigyo\Kigyo\obj\Debug\netcoreapp3.1\Kigyo.dll
+C:\Users\bales\source\repos\Kigyo\Kigyo\obj\Debug\netcoreapp3.1\Kigyo.pdb
+C:\Users\bales\source\repos\Kigyo\Kigyo\obj\Debug\netcoreapp3.1\Kigyo.genruntimeconfig.cache
